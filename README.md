@@ -29,7 +29,10 @@ I enjoy building useful applications, learning new skills, and exploring how AI 
 ## GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Am11n&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Am11n&show_icons=true&hide_border=true&bg_color=00000000"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="left">
